@@ -12,4 +12,5 @@ public class CategorySaveRequest {
 
     @NotNull(message = "Kategori adı boş veya null olamaz")
     private String name;
+    
 }
